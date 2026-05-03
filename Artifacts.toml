@@ -1,0 +1,94 @@
+[[Randompack]]
+arch = "aarch64"
+git-tree-sha1 = "776d50b67170ffd66e4ad0fc566ca457cb2ec0d4"
+os = "macos"
+
+    [[Randompack.download]]
+    sha256 = "a3ec96ec6b60a2030e99e6c3e41e8f7fde842f4e713aebca41b8e4c12d61e00f"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.aarch64-apple-darwin.tar.gz"
+[[Randompack]]
+arch = "aarch64"
+git-tree-sha1 = "cff48a5fa51fae4b38f450d0524fcdf629d2bce9"
+libc = "glibc"
+os = "linux"
+
+    [[Randompack.download]]
+    sha256 = "83c251cd26dda02f467170c0ee55bd6987000ca98b4ef8dae68951942470cb40"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.aarch64-linux-gnu.tar.gz"
+[[Randompack]]
+arch = "aarch64"
+git-tree-sha1 = "e41f4b22f216e96f47d7da6b0cd457caf9e2f756"
+libc = "musl"
+os = "linux"
+
+    [[Randompack.download]]
+    sha256 = "3bc310a4ee2d56b088909112516f006fdbb94ad48b744b755e1c70b24102e577"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.aarch64-linux-musl.tar.gz"
+[[Randompack]]
+arch = "aarch64"
+git-tree-sha1 = "156022875338e2759cbde6003245d24461d4488f"
+os = "freebsd"
+
+    [[Randompack.download]]
+    sha256 = "2ceb2b83f50bc53bd9d1a73855f634a9acd40d821819b359c01bbba80bb166ba"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.aarch64-unknown-freebsd.tar.gz"
+[[Randompack]]
+arch = "powerpc64le"
+git-tree-sha1 = "50aaf5702c6130a95050080a4ddecf1897c12a09"
+libc = "glibc"
+os = "linux"
+
+    [[Randompack.download]]
+    sha256 = "3ea19c8b1cfde1abc260b4950e74890e363a468b05f599f022e73a84123ed289"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.powerpc64le-linux-gnu.tar.gz"
+[[Randompack]]
+arch = "riscv64"
+git-tree-sha1 = "afc657d72e31376e0f74eb14e496093d49386c64"
+libc = "glibc"
+os = "linux"
+
+    [[Randompack.download]]
+    sha256 = "0ba503320137eb281f4eeabd04c52337d33aa08bc87e347e5e54b5f997cc5c14"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.riscv64-linux-gnu.tar.gz"
+[[Randompack]]
+arch = "x86_64"
+git-tree-sha1 = "e160ea93bdccc2e48d66122e9e5c35e1cc5fb372"
+os = "macos"
+
+    [[Randompack.download]]
+    sha256 = "9d7c5fc775f3a4c57783b892e4033602b45e1b3a32165f69fe6e2f74c03a02d3"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.x86_64-apple-darwin.tar.gz"
+[[Randompack]]
+arch = "x86_64"
+git-tree-sha1 = "e3d0934f6f1e69fd94a3be8e4946a56de6468ccd"
+libc = "glibc"
+os = "linux"
+
+    [[Randompack.download]]
+    sha256 = "9f9b9c9d77abd1d298a3d73930c430239f7f0e00202ed4626d2fe2c2f5a3b161"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.x86_64-linux-gnu.tar.gz"
+[[Randompack]]
+arch = "x86_64"
+git-tree-sha1 = "49c0d8c139e081d49adf375593aac2dd02f0f523"
+libc = "musl"
+os = "linux"
+
+    [[Randompack.download]]
+    sha256 = "950bd6a6b133044c50bef4bd3605597fda5f42a74998f30975d581ac3ce59f1e"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.x86_64-linux-musl.tar.gz"
+[[Randompack]]
+arch = "x86_64"
+git-tree-sha1 = "37deed22e5b5509e9637dac1692fbbb5c239f161"
+os = "freebsd"
+
+    [[Randompack.download]]
+    sha256 = "2ca11ed7510c1b0dc509b74ec7cd3efb093eed25b4654597f9c430b9da94c6fd"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.x86_64-unknown-freebsd.tar.gz"
+[[Randompack]]
+arch = "x86_64"
+git-tree-sha1 = "eca3f7fd06307259507f1e9b1ff759461e400724"
+os = "windows"
+
+    [[Randompack.download]]
+    sha256 = "a48ab9ede00ea17290fad6880b4f239526fea56b2f556cfdcf853c692ac92323"
+    url = "https://github.com/JuliaBinaryWrappers/Randompack_jll.jl/releases/download/Randompack-v0.1.5+0/Randompack.v0.1.5.x86_64-w64-mingw32.tar.gz"
